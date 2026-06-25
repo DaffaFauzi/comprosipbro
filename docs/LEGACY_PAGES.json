@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://sipbro.id/",
+    "finalUrl": "https://sipbro.id/",
+    "title": "Beranda - Sip Bro",
+    "status": 200,
+    "assetsDiscovered": 41,
+    "crawledAt": "2026-06-25T07:21:00.246Z",
+    "screenshots": {
+      "desktop": "screenshots/desktop/home-d7529a65-desktop.png",
+      "mobile": "screenshots/mobile/home-d7529a65-mobile.png"
+    }
+  },
+  {
+    "url": "https://sipbro.id/about/",
+    "finalUrl": "https://sipbro.id/about/",
+    "title": "Tentang Kami - Sip Bro",
+    "status": 200,
+    "assetsDiscovered": 1,
+    "crawledAt": "2026-06-25T07:21:05.529Z",
+    "screenshots": {
+      "desktop": "screenshots/desktop/about-05c0652f-desktop.png",
+      "mobile": "screenshots/mobile/about-05c0652f-mobile.png"
+    }
+  },
+  {
+    "url": "https://sipbro.id/services/",
+    "finalUrl": "https://sipbro.id/services/",
+    "title": "Layanan Kami - Sip Bro",
+    "status": 200,
+    "assetsDiscovered": 12,
+    "crawledAt": "2026-06-25T07:21:11.129Z",
+    "screenshots": {
+      "desktop": "screenshots/desktop/services-fbc5bdaa-desktop.png",
+      "mobile": "screenshots/mobile/services-fbc5bdaa-mobile.png"
+    }
+  },
+  {
+    "url": "https://sipbro.id/projects/",
+    "finalUrl": "https://sipbro.id/projects/",
+    "title": "Mitra - Sip Bro",
+    "status": 200,
+    "assetsDiscovered": 0,
+    "crawledAt": "2026-06-25T07:21:16.222Z",
+    "screenshots": {
+      "desktop": "screenshots/desktop/projects-b09f2632-desktop.png",
+      "mobile": "screenshots/mobile/projects-b09f2632-mobile.png"
+    }
+  },
+  {
+    "url": "https://sipbro.id/contact/",
+    "finalUrl": "https://sipbro.id/contact/",
+    "title": "Kontak - Sip Bro",
+    "status": 200,
+    "assetsDiscovered": 12,
+    "crawledAt": "2026-06-25T07:21:24.211Z",
+    "screenshots": {
+      "desktop": "screenshots/desktop/contact-2b33cb43-desktop.png",
+      "mobile": "screenshots/mobile/contact-2b33cb43-mobile.png"
+    }
+  }
+]

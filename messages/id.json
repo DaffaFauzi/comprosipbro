@@ -1,5 +1,27 @@
 {
   "Index": {
     "title": "Selamat Datang di SIP BRO"
+  },
+  "Pages": {
+    "about": {
+      "eyebrow": "Tentang Kami",
+      "title": "Mengenal SIP BRO",
+      "description": "SIP BRO hadir sebagai konsultan asuransi dan penjaminan yang mengutamakan profesionalisme, integritas, dan pelayanan yang responsif."
+    },
+    "services": {
+      "eyebrow": "Layanan Kami",
+      "title": "Solusi Asuransi dan Penjaminan",
+      "description": "Temukan layanan yang sesuai untuk mendukung kebutuhan perlindungan dan penjaminan bisnis Anda."
+    },
+    "partners": {
+      "eyebrow": "Mitra Kami",
+      "title": "Berkolaborasi dengan Mitra Terpercaya",
+      "description": "SIP BRO membangun kolaborasi profesional untuk memberikan solusi yang tepat bagi setiap kebutuhan pelanggan."
+    },
+    "contact": {
+      "eyebrow": "Hubungi Kami",
+      "title": "Konsultasikan Kebutuhan Anda",
+      "description": "Hubungi tim SIP BRO untuk mendapatkan informasi dan konsultasi mengenai kebutuhan asuransi dan penjaminan Anda."
+    }
   }
 }

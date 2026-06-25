@@ -13,14 +13,14 @@ export const siteContentID: SiteContent = {
       { id: 'nav-home', label: 'Beranda', path: '/' },
       { id: 'nav-about', label: 'Tentang Kami', path: '/about' },
       { id: 'nav-services', label: 'Layanan Kami', path: '/services' },
-      { id: 'nav-partners', label: 'Mitra', path: '/projects' },
+      { id: 'nav-partners', label: 'Mitra', path: '/partners' },
       { id: 'nav-contact', label: 'Kontak', path: '/contact' }
     ],
     footer: [
       { id: 'nav-home', label: 'Beranda', path: '/' },
       { id: 'nav-about', label: 'Tentang Kami', path: '/about' },
       { id: 'nav-services', label: 'Layanan Kami', path: '/services' },
-      { id: 'nav-partners', label: 'Mitra', path: '/projects' },
+      { id: 'nav-partners', label: 'Mitra', path: '/partners' },
       { id: 'nav-contact', label: 'Kontak', path: '/contact' }
     ]
   },
@@ -165,14 +165,14 @@ export const siteContentEN: SiteContent = {
       { id: 'nav-home', label: 'Home', path: '/' },
       { id: 'nav-about', label: 'About Us', path: '/about' },
       { id: 'nav-services', label: 'Our Services', path: '/services' },
-      { id: 'nav-partners', label: 'Partners', path: '/projects' },
+      { id: 'nav-partners', label: 'Partners', path: '/partners' },
       { id: 'nav-contact', label: 'Contact', path: '/contact' }
     ],
     footer: [
       { id: 'nav-home', label: 'Home', path: '/' },
       { id: 'nav-about', label: 'About Us', path: '/about' },
       { id: 'nav-services', label: 'Our Services', path: '/services' },
-      { id: 'nav-partners', label: 'Partners', path: '/projects' },
+      { id: 'nav-partners', label: 'Partners', path: '/partners' },
       { id: 'nav-contact', label: 'Contact', path: '/contact' }
     ]
   },

@@ -1,5 +1,5 @@
-import { SiteContent, MediaAsset } from '../types/content';
-import mediaLibrary from './media-library.json';
+import { SiteContent, MediaAsset } from '@/types/content';
+import mediaLibrary from '@/content/media-library.json';
 
 const getAsset = (id: string): MediaAsset | null => {
   const asset = mediaLibrary.find((a) => a.id === id);

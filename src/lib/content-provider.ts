@@ -1,6 +1,6 @@
-import { SiteContent, MediaAsset, ServiceContent, PartnerContent } from '../types/content';
-import mediaLibraryData from '../content/media-library.json';
-import { siteContentID, siteContentEN } from '../content/site-content';
+import { SiteContent, MediaAsset, ServiceContent, PartnerContent } from '@/types/content';
+import mediaLibraryData from '@/content/media-library.json';
+import { siteContentID, siteContentEN } from '@/content/site-content';
 
 export interface ContentProvider {
   getSiteContent(locale: string): Promise<SiteContent>;

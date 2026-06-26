@@ -28,6 +28,18 @@
           "title": "Trusted Partner",
           "description": "Fully committed to your business security and long-term satisfaction."
         }
+      },
+      "aboutPreview": {
+        "eyebrow": "About Us",
+        "title": "A Trusted Partner for Insurance and Guarantee Requirements",
+        "cta": "About SIP BRO"
+      },
+      "servicesPreview": {
+        "eyebrow": "Our Services",
+        "title": "Exceptional Insurance & Guarantee Solutions",
+        "description": "We offer a wide range of group insurance, general insurance, and bancassurance solutions to protect your business assets and people.",
+        "cta": "Explore All Services",
+        "readMore": "Learn More"
       }
     },
     "about": {

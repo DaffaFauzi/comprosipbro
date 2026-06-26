@@ -28,6 +28,18 @@
           "title": "Mitra Terpercaya",
           "description": "Berkomitmen penuh pada keamanan bisnis dan kepuasan jangka panjang Anda."
         }
+      },
+      "aboutPreview": {
+        "eyebrow": "Tentang Kami",
+        "title": "Mitra Tepercaya untuk Kebutuhan Asuransi dan Penjaminan",
+        "cta": "Tentang SIP BRO"
+      },
+      "servicesPreview": {
+        "eyebrow": "Layanan Kami",
+        "title": "Solusi Penjaminan & Asuransi Terbaik",
+        "description": "Kami menyediakan berbagai produk asuransi kumpulan, asuransi umum, dan bancassurance untuk memenuhi kebutuhan perlindungan bisnis Anda.",
+        "cta": "Lihat Semua Layanan",
+        "readMore": "Pelajari Selengkapnya"
       }
     },
     "about": {

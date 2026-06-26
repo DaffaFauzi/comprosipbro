@@ -8,6 +8,8 @@ import { AboutPreview } from '@/components/sections/home/about-preview';
 import { ServicesPreview } from '@/components/sections/home/services-preview';
 import { WhyChooseUs } from '@/components/sections/home/why-choose-us';
 import { ServiceProcess } from '@/components/sections/home/service-process';
+import { PartnersPreview } from '@/components/sections/home/partners-preview';
+import { ConsultationCta } from '@/components/sections/home/consultation-cta';
 import { routing } from '@/i18n/routing';
 
 type HomePageProps = {
@@ -35,6 +37,8 @@ export default async function HomePage({
       <ServicesPreview locale={locale} />
       <WhyChooseUs locale={locale} />
       <ServiceProcess locale={locale} />
+      <PartnersPreview locale={locale} />
+      <ConsultationCta locale={locale} />
     </>
   );
 }

@@ -46,6 +46,19 @@
       },
       "serviceProcess": {
         "eyebrow": "Service Process"
+      },
+      "partnersPreview": {
+        "eyebrow": "Our Partners",
+        "title": "Collaborating with Trusted Partners",
+        "description": "SIP BRO builds professional collaborations with trusted partners to support clients' insurance and guarantee requirements.",
+        "cta": "View Our Partners",
+        "loadingText": "Our partner list is currently being updated."
+      },
+      "consultationCta": {
+        "title": "Ready to Discuss Your Insurance and Guarantee Requirements?",
+        "description": "Discuss your business requirements with the SIP BRO team to receive relevant information and service recommendations.",
+        "primaryCta": "Start a Consultation",
+        "secondaryCta": "Explore Services"
       }
     },
     "about": {

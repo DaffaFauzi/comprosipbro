@@ -46,6 +46,19 @@
       },
       "serviceProcess": {
         "eyebrow": "Proses Layanan"
+      },
+      "partnersPreview": {
+        "eyebrow": "Mitra Kami",
+        "title": "Berkolaborasi dengan Mitra Tepercaya",
+        "description": "SIP BRO membangun kolaborasi profesional dengan berbagai mitra untuk mendukung kebutuhan asuransi dan penjaminan pelanggan.",
+        "cta": "Lihat Mitra Kami",
+        "loadingText": "Daftar mitra kami sedang diperbarui."
+      },
+      "consultationCta": {
+        "title": "Siap Mendiskusikan Kebutuhan Asuransi dan Penjaminan Anda?",
+        "description": "Konsultasikan kebutuhan bisnis Anda bersama tim SIP BRO untuk mendapatkan informasi dan rekomendasi layanan yang sesuai.",
+        "primaryCta": "Konsultasi Sekarang",
+        "secondaryCta": "Lihat Layanan"
       }
     },
     "about": {

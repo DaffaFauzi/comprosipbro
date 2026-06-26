@@ -40,6 +40,12 @@
         "description": "Kami menyediakan berbagai produk asuransi kumpulan, asuransi umum, dan bancassurance untuk memenuhi kebutuhan perlindungan bisnis Anda.",
         "cta": "Lihat Semua Layanan",
         "readMore": "Pelajari Selengkapnya"
+      },
+      "whyChooseUs": {
+        "eyebrow": "Mengapa Memilih Kami"
+      },
+      "serviceProcess": {
+        "eyebrow": "Proses Layanan"
       }
     },
     "about": {

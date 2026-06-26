@@ -6,6 +6,8 @@ import { HeroSection } from '@/components/sections/home/hero-section';
 import { TrustHighlights } from '@/components/sections/home/trust-highlights';
 import { AboutPreview } from '@/components/sections/home/about-preview';
 import { ServicesPreview } from '@/components/sections/home/services-preview';
+import { WhyChooseUs } from '@/components/sections/home/why-choose-us';
+import { ServiceProcess } from '@/components/sections/home/service-process';
 import { routing } from '@/i18n/routing';
 
 type HomePageProps = {
@@ -31,6 +33,8 @@ export default async function HomePage({
       <TrustHighlights />
       <AboutPreview locale={locale} />
       <ServicesPreview locale={locale} />
+      <WhyChooseUs locale={locale} />
+      <ServiceProcess locale={locale} />
     </>
   );
 }

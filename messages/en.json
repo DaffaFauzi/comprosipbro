@@ -40,6 +40,12 @@
         "description": "We offer a wide range of group insurance, general insurance, and bancassurance solutions to protect your business assets and people.",
         "cta": "Explore All Services",
         "readMore": "Learn More"
+      },
+      "whyChooseUs": {
+        "eyebrow": "Why Choose Us"
+      },
+      "serviceProcess": {
+        "eyebrow": "Service Process"
       }
     },
     "about": {

@@ -150,6 +150,60 @@ export const siteContentID: SiteContent = {
     phoneRaw: 'tel:081234567890',
     mapImage: getAsset('map-tile-1')
   },
+  whyChooseUs: {
+    title: 'Pendamping Profesional untuk Kebutuhan Bisnis Anda',
+    values: [
+      {
+        id: 'wcu-professional',
+        title: 'Profesional',
+        description: 'Layanan diberikan dengan proses kerja yang terarah dan bertanggung jawab.',
+        iconName: 'professional'
+      },
+      {
+        id: 'wcu-responsive',
+        title: 'Responsif',
+        description: 'Tim memberikan komunikasi dan pendampingan yang cepat sesuai kebutuhan.',
+        iconName: 'responsive'
+      },
+      {
+        id: 'wcu-transparent',
+        title: 'Transparan',
+        description: 'Informasi proses dan kebutuhan disampaikan secara jelas kepada pelanggan.',
+        iconName: 'transparent'
+      },
+      {
+        id: 'wcu-trusted',
+        title: 'Mitra Tepercaya',
+        description: 'SIP BRO berupaya membangun hubungan kerja jangka panjang yang profesional.',
+        iconName: 'trusted'
+      }
+    ]
+  },
+  serviceProcess: {
+    title: 'Proses yang Jelas dan Terarah',
+    steps: [
+      {
+        step: 1,
+        title: 'Konsultasi Kebutuhan',
+        description: 'Memahami kebutuhan asuransi atau penjaminan pelanggan.'
+      },
+      {
+        step: 2,
+        title: 'Analisis dan Rekomendasi',
+        description: 'Menganalisis kebutuhan dan menyiapkan solusi yang sesuai.'
+      },
+      {
+        step: 3,
+        title: 'Proses Pengajuan',
+        description: 'Mendampingi proses dokumen dan pengajuan kepada pihak terkait.'
+      },
+      {
+        step: 4,
+        title: 'Pendampingan Lanjutan',
+        description: 'Memberikan informasi dan pendampingan setelah proses berjalan.'
+      }
+    ]
+  },
   footerCTA: {
     heading: 'Jangan Tunda Keamanan Bisnis Anda!',
     description: 'Segera konsultasikan kebutuhan asuransi dan penjaminan Anda bersama SIP BRO. Tim kami siap memberikan solusi yang cepat, tepat, dan menyeluruh.',
@@ -301,6 +355,60 @@ export const siteContentEN: SiteContent = {
     phone: '0812-3456-7890 (Placeholder / Needs confirmation)',
     phoneRaw: 'tel:081234567890',
     mapImage: getAsset('map-tile-1')
+  },
+  whyChooseUs: {
+    title: 'Professional Support for Your Business Requirements',
+    values: [
+      {
+        id: 'wcu-professional',
+        title: 'Professional',
+        description: 'Services are delivered with a structured and responsible work process.',
+        iconName: 'professional'
+      },
+      {
+        id: 'wcu-responsive',
+        title: 'Responsive',
+        description: 'The team provides prompt communication and assistance as needed.',
+        iconName: 'responsive'
+      },
+      {
+        id: 'wcu-transparent',
+        title: 'Transparent',
+        description: 'Process details and requirements are clearly communicated to customers.',
+        iconName: 'transparent'
+      },
+      {
+        id: 'wcu-trusted',
+        title: 'Trusted Partner',
+        description: 'SIP BRO strives to build long-term, professional working relationships.',
+        iconName: 'trusted'
+      }
+    ]
+  },
+  serviceProcess: {
+    title: 'A Clear and Structured Process',
+    steps: [
+      {
+        step: 1,
+        title: 'Requirement Consultation',
+        description: 'Understanding customer insurance or guarantee requirements.'
+      },
+      {
+        step: 2,
+        title: 'Analysis and Recommendation',
+        description: 'Analyzing requirements and preparing suitable solutions.'
+      },
+      {
+        step: 3,
+        title: 'Application Process',
+        description: 'Assisting with document processing and applications to relevant parties.'
+      },
+      {
+        step: 4,
+        title: 'Ongoing Assistance',
+        description: 'Providing information and assistance after the process is underway.'
+      }
+    ]
   },
   footerCTA: {
     heading: 'Don\'t Delay Your Business Security!',

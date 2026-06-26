@@ -115,6 +115,29 @@ export interface AboutContent {
   values: CompanyValue[];
 }
 
+export interface WhyChooseUsItem {
+  id: string;
+  title: string;
+  description: string;
+  iconName: string;
+}
+
+export interface WhyChooseUsContent {
+  title: string;
+  values: WhyChooseUsItem[];
+}
+
+export interface ServiceStep {
+  step: number;
+  title: string;
+  description: string;
+}
+
+export interface ServiceProcessContent {
+  title: string;
+  steps: ServiceStep[];
+}
+
 export interface SiteContent {
   locale: string;
   navigation: {
@@ -126,6 +149,8 @@ export interface SiteContent {
   services: ServiceContent;
   partners: PartnerContent;
   contact: ContactContent;
+  whyChooseUs: WhyChooseUsContent;
+  serviceProcess: ServiceProcessContent;
   footerCTA: {
     heading: string;
     description: string;
@@ -133,3 +158,4 @@ export interface SiteContent {
   };
   copyright: string;
 }
+

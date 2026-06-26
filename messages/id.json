@@ -1,5 +1,85 @@
 {
   "Index": {
     "title": "Selamat Datang di SIP BRO"
+  },
+  "Pages": {
+    "home": {
+      "hero": {
+        "eyebrow": "Insurance and Guarantee Consultant",
+        "title": "Solusi Asuransi dan Penjaminan untuk Mendukung Bisnis Anda",
+        "description": "SIP BRO membantu perusahaan memperoleh solusi asuransi dan penjaminan yang tepat melalui layanan profesional, responsif, dan terpercaya.",
+        "primaryCta": "Lihat Layanan",
+        "secondaryCta": "Konsultasi Sekarang"
+      },
+      "trust": {
+        "professional": {
+          "title": "Profesional",
+          "description": "Menjunjung tinggi standar keahlian dan integritas dalam setiap aspek layanan."
+        },
+        "responsive": {
+          "title": "Responsif",
+          "description": "Cepat tanggap dalam memberikan solusi dan melayani kebutuhan penjaminan Anda."
+        },
+        "transparent": {
+          "title": "Transparan",
+          "description": "Kejelasan informasi dan keterbukaan proses dalam setiap transaksi."
+        },
+        "trustedPartner": {
+          "title": "Mitra Terpercaya",
+          "description": "Berkomitmen penuh pada keamanan bisnis dan kepuasan jangka panjang Anda."
+        }
+      },
+      "aboutPreview": {
+        "eyebrow": "Tentang Kami",
+        "title": "Mitra Tepercaya untuk Kebutuhan Asuransi dan Penjaminan",
+        "cta": "Tentang SIP BRO"
+      },
+      "servicesPreview": {
+        "eyebrow": "Layanan Kami",
+        "title": "Solusi Penjaminan & Asuransi Terbaik",
+        "description": "Kami menyediakan berbagai produk asuransi kumpulan, asuransi umum, dan bancassurance untuk memenuhi kebutuhan perlindungan bisnis Anda.",
+        "cta": "Lihat Semua Layanan",
+        "readMore": "Pelajari Selengkapnya"
+      },
+      "whyChooseUs": {
+        "eyebrow": "Mengapa Memilih Kami"
+      },
+      "serviceProcess": {
+        "eyebrow": "Proses Layanan"
+      },
+      "partnersPreview": {
+        "eyebrow": "Mitra Kami",
+        "title": "Berkolaborasi dengan Mitra Tepercaya",
+        "description": "SIP BRO membangun kolaborasi profesional dengan berbagai mitra untuk mendukung kebutuhan asuransi dan penjaminan pelanggan.",
+        "cta": "Lihat Mitra Kami",
+        "loadingText": "Daftar mitra kami sedang diperbarui."
+      },
+      "consultationCta": {
+        "title": "Siap Mendiskusikan Kebutuhan Asuransi dan Penjaminan Anda?",
+        "description": "Konsultasikan kebutuhan bisnis Anda bersama tim SIP BRO untuk mendapatkan informasi dan rekomendasi layanan yang sesuai.",
+        "primaryCta": "Konsultasi Sekarang",
+        "secondaryCta": "Lihat Layanan"
+      }
+    },
+    "about": {
+      "eyebrow": "Tentang Kami",
+      "title": "Mengenal SIP BRO",
+      "description": "SIP BRO hadir sebagai konsultan asuransi dan penjaminan yang mengutamakan profesionalisme, integritas, dan pelayanan yang responsif."
+    },
+    "services": {
+      "eyebrow": "Layanan Kami",
+      "title": "Solusi Asuransi dan Penjaminan",
+      "description": "Temukan layanan yang sesuai untuk mendukung kebutuhan perlindungan dan penjaminan bisnis Anda."
+    },
+    "partners": {
+      "eyebrow": "Mitra Kami",
+      "title": "Berkolaborasi dengan Mitra Terpercaya",
+      "description": "SIP BRO membangun kolaborasi profesional untuk memberikan solusi yang tepat bagi setiap kebutuhan pelanggan."
+    },
+    "contact": {
+      "eyebrow": "Hubungi Kami",
+      "title": "Konsultasikan Kebutuhan Anda",
+      "description": "Hubungi tim SIP BRO untuk mendapatkan informasi dan konsultasi mengenai kebutuhan asuransi dan penjaminan Anda."
+    }
   }
 }

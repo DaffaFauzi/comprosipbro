@@ -1,5 +1,85 @@
 {
   "Index": {
     "title": "Welcome to SIP BRO"
+  },
+  "Pages": {
+    "home": {
+      "hero": {
+        "eyebrow": "Insurance and Guarantee Consultant",
+        "title": "Insurance and Guarantee Solutions to Support Your Business",
+        "description": "SIP BRO helps businesses obtain suitable insurance and guarantee solutions through professional, responsive, and trusted services.",
+        "primaryCta": "Explore Services",
+        "secondaryCta": "Start a Consultation"
+      },
+      "trust": {
+        "professional": {
+          "title": "Professional",
+          "description": "Upholding the highest standards of expertise and integrity in our services."
+        },
+        "responsive": {
+          "title": "Responsive",
+          "description": "Promptly addressing and providing solutions for your guarantee requirements."
+        },
+        "transparent": {
+          "title": "Transparent",
+          "description": "Clear information and open processes in every transaction."
+        },
+        "trustedPartner": {
+          "title": "Trusted Partner",
+          "description": "Fully committed to your business security and long-term satisfaction."
+        }
+      },
+      "aboutPreview": {
+        "eyebrow": "About Us",
+        "title": "A Trusted Partner for Insurance and Guarantee Requirements",
+        "cta": "About SIP BRO"
+      },
+      "servicesPreview": {
+        "eyebrow": "Our Services",
+        "title": "Exceptional Insurance & Guarantee Solutions",
+        "description": "We offer a wide range of group insurance, general insurance, and bancassurance solutions to protect your business assets and people.",
+        "cta": "Explore All Services",
+        "readMore": "Learn More"
+      },
+      "whyChooseUs": {
+        "eyebrow": "Why Choose Us"
+      },
+      "serviceProcess": {
+        "eyebrow": "Service Process"
+      },
+      "partnersPreview": {
+        "eyebrow": "Our Partners",
+        "title": "Collaborating with Trusted Partners",
+        "description": "SIP BRO builds professional collaborations with trusted partners to support clients' insurance and guarantee requirements.",
+        "cta": "View Our Partners",
+        "loadingText": "Our partner list is currently being updated."
+      },
+      "consultationCta": {
+        "title": "Ready to Discuss Your Insurance and Guarantee Requirements?",
+        "description": "Discuss your business requirements with the SIP BRO team to receive relevant information and service recommendations.",
+        "primaryCta": "Start a Consultation",
+        "secondaryCta": "Explore Services"
+      }
+    },
+    "about": {
+      "eyebrow": "About Us",
+      "title": "Get to Know SIP BRO",
+      "description": "SIP BRO is an insurance and guarantee consultant committed to professionalism, integrity, and responsive service."
+    },
+    "services": {
+      "eyebrow": "Our Services",
+      "title": "Insurance and Guarantee Solutions",
+      "description": "Explore solutions designed to support your business protection and guarantee requirements."
+    },
+    "partners": {
+      "eyebrow": "Our Partners",
+      "title": "Collaborating with Trusted Partners",
+      "description": "SIP BRO builds professional collaborations to provide suitable solutions for every client requirement."
+    },
+    "contact": {
+      "eyebrow": "Contact Us",
+      "title": "Discuss Your Requirements with Us",
+      "description": "Contact the SIP BRO team for information and consultation regarding your insurance and guarantee requirements."
+    }
   }
 }

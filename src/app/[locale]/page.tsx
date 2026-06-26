@@ -1,19 +1,20 @@
 import { hasLocale } from 'next-intl';
-import { getTranslations, setRequestLocale } from 'next-intl/server';
+import { setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 
-import { Container } from '@/components/ui/container';
+import { HeroSection } from '@/components/sections/home/hero-section';
+import { TrustHighlights } from '@/components/sections/home/trust-highlights';
 import { routing } from '@/i18n/routing';
 
-type ServicesPageProps = {
+type HomePageProps = {
   params: Promise<{
     locale: string;
   }>;
 };
 
-export default async function ServicesPage({
+export default async function HomePage({
   params
-}: ServicesPageProps) {
+}: HomePageProps) {
   const { locale } = await params;
 
   if (!hasLocale(routing.locales, locale)) {
@@ -22,28 +23,10 @@ export default async function ServicesPage({
 
   setRequestLocale(locale);
 
-  const t = await getTranslations({
-    locale,
-    namespace: 'Pages.services'
-  });
-
   return (
-    <section className="py-20 sm:py-24">
-      <Container>
-        <div className="mx-auto max-w-3xl text-center">
-          <p className="mb-3 text-sm font-semibold uppercase tracking-widest text-brand-blue">
-            {t('eyebrow')}
-          </p>
-
-          <h1 className="text-4xl font-bold tracking-tight text-text-primary sm:text-5xl">
-            {t('title')}
-          </h1>
-
-          <p className="mt-6 text-base leading-8 text-text-secondary sm:text-lg">
-            {t('description')}
-          </p>
-        </div>
-      </Container>
-    </section>
+    <>
+      <HeroSection />
+      <TrustHighlights />
+    </>
   );
 }

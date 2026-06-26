@@ -3,6 +3,33 @@
     "title": "Selamat Datang di SIP BRO"
   },
   "Pages": {
+    "home": {
+      "hero": {
+        "eyebrow": "Insurance and Guarantee Consultant",
+        "title": "Solusi Asuransi dan Penjaminan untuk Mendukung Bisnis Anda",
+        "description": "SIP BRO membantu perusahaan memperoleh solusi asuransi dan penjaminan yang tepat melalui layanan profesional, responsif, dan terpercaya.",
+        "primaryCta": "Lihat Layanan",
+        "secondaryCta": "Konsultasi Sekarang"
+      },
+      "trust": {
+        "professional": {
+          "title": "Profesional",
+          "description": "Menjunjung tinggi standar keahlian dan integritas dalam setiap aspek layanan."
+        },
+        "responsive": {
+          "title": "Responsif",
+          "description": "Cepat tanggap dalam memberikan solusi dan melayani kebutuhan penjaminan Anda."
+        },
+        "transparent": {
+          "title": "Transparan",
+          "description": "Kejelasan informasi dan keterbukaan proses dalam setiap transaksi."
+        },
+        "trustedPartner": {
+          "title": "Mitra Terpercaya",
+          "description": "Berkomitmen penuh pada keamanan bisnis dan kepuasan jangka panjang Anda."
+        }
+      }
+    },
     "about": {
       "eyebrow": "Tentang Kami",
       "title": "Mengenal SIP BRO",
